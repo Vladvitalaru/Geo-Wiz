@@ -1,8 +1,10 @@
 //
-//  FinalApp.swift
+//  Vlad Vitalaru
+//  Besim Krnjic
+
+//  App.swift
 //  Final
 //
-//  Created by Vlad Vitalaru on 4/17/22.
 //
 
 import SwiftUI
